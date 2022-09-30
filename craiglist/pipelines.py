@@ -1,7 +1,6 @@
 
 from itemadapter import ItemAdapter
 
-
 class CraiglistPipeline:
     def text_cleaner(self, item, spider):
 
