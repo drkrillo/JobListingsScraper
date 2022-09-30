@@ -1,0 +1,4 @@
+scrapy==1.7.1
+scrapy-proxy-pool==0.1.9
+scrapy-rotating-proxies==0.6.2
+pandas==1.2.5
